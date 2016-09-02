@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 主要颜色橘黄色 -->
+    <color name="main_color">#ffff4300</color>
+    <color name="main_color16">#ff4300</color>
+    <!-- 次要颜色绿色 -->
+    <color name="lesser_color">#ff009dff</color>
+    <color name="lesser_color16">#009dff</color>
+    <!-- 次要颜色绿色 -->
+    <color name="main_lesser_color">#ff90cb01</color>
+    <color name="main_lesser_color16">#90cb01</color>
+    <!-- 按钮蓝色 -->
+    <color name="blue_btn">#589cfc</color>
+    <color name="hintcolor">#b0b0b0</color>
+    <!-- 微信支付 -->
+    <color name="navpage">#FFE1E8EB</color>
+    <color name="pay_bg">#f5f6f7</color>
+    <!--  -->
+    <color name="black_drag">#161616</color>
+    <color name="gray_drag">#737373</color>
+    <!--  -->
+    <color name="order_item_gray">#f8f8f8</color>
+    <color name="shopcar_item">#f8f8f8</color>
+    <color name="shopcar_item_space">#f5f5f5</color>
+    <color name="main_bottom_txt_press">#ff888888</color>
+    <color name="main_bottom_txt_press16">#888888</color>
+    <!--  -->
+    <color name="main_bottom_press">#ff65affa</color>
+    <color name="main_bottom_press16">#65affa</color>
+    <color name="main_gray">#444444</color>
+    <color name="login_color">#ff4300</color>
+    <color name="login_color_press">#848484</color>
+    <color name="main_bg">#f6f6f6</color>
+    <color name="text_gray">#848484</color>
+    <color name="transparent2">#9000</color>
+    <color name="transparent3">#6000</color>
+    <color name="line_gray">#e9e9e9</color>
+    <color name="text_menu">#202020</color>
+    <!-- SwitchButton -->
+    <color name="on_text">#FFFFFF</color>
+    <color name="off_text">#ff0668d6</color>
+    <!--  -->
+    <color name="transparent">#00000000</color>
+    <color name="orange">#FFED6D00</color>
+    <color name="white">#ffffff</color>
+    <!-- <color name="white_all">#ffffff</color> -->
+    <!-- <color name="white">#fffafafa</color> -->
+    <color name="black">#202020</color>
+    <color name="black_text">#202020</color>
+    <color name="gray">#9d9d9d</color>
+    <color name="gray_bg">#f1f1f1</color>
+    <color name="gray_bg2">#adadad</color>
+    <color name="gray_text">#999999</color>
+    <color name="gray_text2">#555555</color>
+    <color name="red">#ff0000</color>
+    <color name="btn_bg">#1a6a61</color>
+    <color name="blue">#0081e4</color>
+    <color name="blue_text">#0066b3</color>
+    <color name="green">#95d402</color>
+    <color name="green2">#add931</color>
+    <color name="green3">#CEFFCE</color>
+    <color name="green4_money">#008000</color>
+    <color name="pink">#FFC1C1</color>
+    <color name="nothing">#00000000</color>
+    <color name="black2">#505050</color>
+    <color name="blue_table">#009dff</color>
+    <color name="gray_dialog">#a0a0a0</color>
+    <color name="querymain_popupwindow_bg">#f6f6f6</color>
+    <color name="querymain_kinddialog_item">#323232</color>
+    <color name="bg">#f5f5f5</color>
+    <color name="blue_line">#0067b6</color>
+    <color name="gray_line">#e5e5e5</color>
+    <color name="history_red">#FFD7D7</color>
+    <color name="history_blue">#AAD5FF</color>
+    <color name="gray16">#dcdcdc</color>
+    <color name="white16">#ffffff</color>
+    <!-- 相机 -->
+    <color name="main_menu_bg">#aa111213</color>
+    <color name="common_title_bg">#aa111213</color>
+    <color name="primary_title_text_color">#ff888888</color>
+    <color name="common_title_text">#ff565555</color>
+    <color name="common_text_yellow">#ffffe049</color>
+    <color name="album_item_bg">#fffcfcfd</color>
+    <color name="video_playter_bg">#333333</color>
+    <!-- expandtab -->
+    <color name="popup_main_background">#00000000</color>
+    <color name="choose_eara_item_press_color">#f4f4f4</color>
+    <color name="no_color">#00000000</color>
+    <color name="list_color">#90cb00</color>
+    <!-- 进度条参数 -->
+    <color name="spb_default_color">#95d402</color>
+
+    <dimen name="spb_default_stroke_separator_length">4dp</dimen>
+    <dimen name="spb_default_stroke_width">4dp</dimen>
+
+    <integer name="spb_default_sections_count">4</integer>
+    <integer name="spb_default_interpolator">0</integer>
+
+    <item name="spb_default_speed" format="float" type="string">1.0</item>
+
+    <bool name="spb_default_reversed">false</bool>
+    <bool name="spb_default_mirror_mode">false</bool>
+    <bool name="spb_default_progressiveStart_activated">false</bool>
+
+</resources>

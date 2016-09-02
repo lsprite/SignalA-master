@@ -1,0 +1,1 @@
+include ':parallel-basic-http-client', ':SignalA', ':SignalA.LongPolling', ':Demo', ':HubDemo', ':HubGroupDemo', ':Singala2android'
