@@ -4,6 +4,7 @@
 [calc]: http://signalrcalc.apphb.com/
 
 安卓自己该的是Singala2android
+添加maven_push.gradle文件及gradle.properties里的字段
 
 #SignalA#
 
